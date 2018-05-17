@@ -1,6 +1,6 @@
 {
   "name": "edb-sorteio",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.",
   "main": "src/",
   "scripts": {
