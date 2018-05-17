@@ -1,0 +1,29 @@
+{
+  "name": "edb-sorteio",
+  "version": "0.2.0",
+  "description": "Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.",
+  "main": "src/",
+  "scripts": {
+    "standard": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbocca/edb-sorteio.git"
+  },
+  "keywords": [
+    "sorteio",
+    "random",
+    "edb",
+    "javascript"
+  ],
+  "author": "Gabriel Bertola Bocca - gabriel@estudiodigitalbocca.com.br",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalbocca/edb-sorteio/issues"
+  },
+  "homepage": "https://github.com/digitalbocca/edb-sorteio#readme",
+  "devDependencies": {
+    "cross-var-no-babel": "^1.2.0",
+    "standard": "^11.0.1"
+  }
+}

@@ -2,12 +2,19 @@
 
 ## edb-sorteio
 
-### v0.1.0
+### v0.2.0
 
 > Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.
 
 ## CHANGELOG
 
+### Mudanças na v0.2.0
+
+- Adicionadas as dependências de desenvolvimento.
+- Criado arquivo de configuração NPM.
+
 ### Mudanças na v0.1.0
 
 - Iniciado o controle de versão.
+
+> (c)2018 - Estúdio Digital Bocca - <https://estudiodigitalbocca.com.br>
