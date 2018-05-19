@@ -1,19 +1,20 @@
 {
   "name": "edb-sorteio",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "description": "Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.",
   "main": "src/",
   "config": {
-    "commitMessage": "Uma Mensagem de commit."
+    "commitMessage": "Adicionados os selos CodeClimate e Standard"
   },
   "scripts": {
     "standard": "standard",
-    "git": "npm run gst && npm run gad && npm run gco && npm run gta",
+    "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpo && npm run gpb",
     "gst": "git status",
     "gad": "git add .",
     "gco": "cross-var git commit -m \"$npm_package_config_commitMessage\"",
     "gta": "cross-var git tag v$npm_package_version",
     "gpo": "git push origin master --tags",
+    "gpb": "git push origin bb --tags",
     "tver": "cross-var echo $npm_package_version",
     "tcom": "cross-var echo $npm_package_config_commitMessage"
   },
