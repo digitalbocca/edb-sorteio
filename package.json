@@ -3,8 +3,19 @@
   "version": "0.3.0",
   "description": "Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.",
   "main": "src/",
+  "config": {
+    "commitMessage": "Uma Mensagem de commit."
+  },
   "scripts": {
-    "standard": "standard"
+    "standard": "standard",
+    "git": "npm run gst && npm run gad && npm run gco && npm run gta",
+    "gst": "git status",
+    "gad": "git add .",
+    "gco": "cross-var git commit -m \"$npm_package_config_commitMessage\"",
+    "gta": "cross-var git tag v$npm_package_version",
+    "gpo": "git push origin master --tags",
+    "tver": "cross-var echo $npm_package_version",
+    "tcom": "cross-var echo $npm_package_config_commitMessage"
   },
   "repository": {
     "type": "git",

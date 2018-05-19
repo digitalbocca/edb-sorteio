@@ -2,23 +2,39 @@
 
 ## edb-sorteio
 
-### v0.3.0
+### v0.4.0
+
+---
 
 > Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.
 
+## EXEMPLO DE USO
+
+- Adicione como uma dependência do seu projeto:
+
+```bash
+npm install --save edb-sorteio
+```
+
+- Importe no componente que fará uso:
+
+```javascript
+import sorteio from 'edb-sorteio'
+```
+
+- Passe o limite como parâmetro:
+
+```javascript
+// Sorteia um número até 100
+let numeroSorteado = sorteio(100)
+```
+
 ## CHANGELOG
 
-### Mudanças na v0.3.0
+Veja no arquivo CHANGELOG.md
 
-- Adicionada a função principal que sorteia o número.
+## LICENÇA
 
-### Mudanças na v0.2.0
+MIT
 
-- Adicionadas as dependências de desenvolvimento.
-- Criado arquivo de configuração NPM.
-
-### Mudanças na v0.1.0
-
-- Iniciado o controle de versão.
-
-> (c)2018 - Estúdio Digital Bocca - <https://estudiodigitalbocca.com.br>
+> (c)2018 - Estúdio Digital Bocca - [https://estudiodigitalbocca.com.br](https://estudiodigitalbocca.com.br)
