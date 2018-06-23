@@ -2,11 +2,15 @@
 
 ## edb-sorteio
 
-### v0.5.0
+### v0.6.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v0.6.0
+
+- Gerada a documentação com JSDoc.
 
 ### Mudanças na v0.5.0
 

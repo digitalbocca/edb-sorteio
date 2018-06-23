@@ -1,19 +1,17 @@
 'use strict'
 
 /**
- * edb-sorteio
- *
- * @file index.js
- * @namespace src
- * @description Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.
- * @since v0.3.0
+ * Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.
  *
  * @copyright (c)2018 - Estúdio Digital Bocca - https://estudiodigitalbocca.com.br/
  * @author Gabriel Bertola Bocca - gabriel at estudiodigitalbocca.com.br
  *
- * @version v1.0.0
+ * @since v0.3.0
+ * @version v2.0.0
+ *
+ * @param {int} limite - O número máximo que será sorteado.
+ * @return {int} Número sorteado.
  */
-
 const sorteio = limite => Math.ceil(Math.random() * limite)
 
 export default sorteio
