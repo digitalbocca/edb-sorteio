@@ -2,7 +2,7 @@
 
 ## edb-sorteio
 
-### v0.6.0
+### v0.7.0
 
 ---
 
@@ -33,6 +33,10 @@ import sorteio from 'edb-sorteio'
 // Sorteia um número até 100
 let numeroSorteado = sorteio(100)
 ```
+
+## DOCUMENTAÇÃO
+
+[https://digitalbocca.github.io/edb-sorteio/](https://digitalbocca.github.io/edb-sorteio/)
 
 ## CHANGELOG
 

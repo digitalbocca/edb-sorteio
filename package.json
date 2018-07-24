@@ -1,22 +1,23 @@
 {
   "name": "edb-sorteio",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.",
   "main": "src/",
   "config": {
-    "commitMessage": "Gerada a documentação com JSDoc"
+    "commitMessage": "Adicionado link da documentação"
   },
   "scripts": {
     "standard": "standard",
     "http": "http-server ./docs -o",
     "doc": "jsdoc ./src -d docs",
-    "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpo && npm run gpb",
+    "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpo && npm run gpb && npm run gpg",
     "gst": "git status",
     "gad": "git add .",
     "gco": "cross-var git commit -m \"$npm_package_config_commitMessage\"",
     "gta": "cross-var git tag v$npm_package_version",
     "gpo": "git push origin master --tags",
-    "gpb": "git push bb master --tags"
+    "gpb": "git push bb master --tags",
+    "gpg": "git push gl master --tags"
   },
   "repository": {
     "type": "git",

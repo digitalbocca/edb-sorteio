@@ -2,11 +2,16 @@
 
 ## edb-sorteio
 
-### v0.6.0
+### v0.7.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v0.7.0
+
+- Adicionado repositório no GitLab ao controle de versão.
+- Adicionado link da documentação.
 
 ### Mudanças na v0.6.0
 
