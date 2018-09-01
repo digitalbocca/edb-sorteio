@@ -2,11 +2,15 @@
 
 ## edb-sorteio
 
-### v0.7.0
+### v0.8.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v0.8.0
+
+- Atualização de dependências.
 
 ### Mudanças na v0.7.0
 
