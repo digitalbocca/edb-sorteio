@@ -2,11 +2,15 @@
 
 ## edb-sorteio
 
-### v0.8.0
+### v0.9.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v0.9.0
+
+- Atualização de selos no README
 
 ### Mudanças na v0.8.0
 
