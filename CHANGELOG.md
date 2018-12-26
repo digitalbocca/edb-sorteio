@@ -2,11 +2,15 @@
 
 ## edb-sorteio
 
-### v0.9.0
+### v0.10.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v0.10.0
+
+- Ignorando a pasta de documentação no npm.
 
 ### Mudanças na v0.9.0
 
