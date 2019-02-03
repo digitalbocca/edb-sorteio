@@ -2,11 +2,15 @@
 
 ## edb-sorteio
 
-### v0.10.0
+### v0.11.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v0.11.0
+
+- Atualização nas datas de copyright.
 
 ### Mudanças na v0.10.0
 
