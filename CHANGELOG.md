@@ -2,11 +2,15 @@
 
 ## edb-sorteio
 
-### v0.13.0
+### v0.14.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v0.14.0
+
+- Atualização de segurança.
 
 ### Mudanças na v0.13.0
 
