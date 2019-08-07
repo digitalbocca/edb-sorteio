@@ -2,11 +2,16 @@
 
 ## edb-sorteio
 
-### v0.14.0
+### v1.0.0
 
 ---
 
 ## CHANGELOG
+
+### Mudanças na v1.0.0
+
+- Possibilidade de sortear Zero.
+- Atualização de dependências.
 
 ### Mudanças na v0.14.0
 

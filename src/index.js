@@ -7,11 +7,17 @@
  * @author Gabriel Bertola Bocca - gabriel at estudiodigitalbocca.com.br
  *
  * @since v0.3.0
- * @version v3.0.0
+ * @version v4.0.0
  *
  * @param {int} limite - O número máximo que será sorteado.
  * @return {int} Número sorteado.
  */
 const sorteio = limite => Math.ceil(Math.random() * limite)
 
+const emUm = sorteio
+
+const emZero = limite => Math.floor(Math.random() * limite)
+
 export default sorteio
+
+export { emUm, emZero }
