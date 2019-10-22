@@ -2,7 +2,7 @@
 
 ## edb-sorteio
 
-### v1.0.0
+### v1.1.0
 
 ---
 
@@ -52,9 +52,7 @@ let numeroSorteado = sorteio(100)
 ### IMPORTAÇÃO SOB DEMANDA
 
 > ATENÇÃO: A função emUm(limite) reflete o comportamento padrão, realizando um sorteio que inicia em 1 e vai até o limite escolhido. Esta função é apenas uma cópia do comportamento padrão.
-
 > ATENÇÃO: A função emZero(limite) inicia em zero e vai até antes do número limite. Esta função é usada principalmente para sortear indices de array, pois com o comportamento padrão você precisa subtrair 1 do resultado para usar como índice do array.
-
 > EXEMPLO: array\[emZero(array.lenght)\]
 
 - Importe no componente que fará uso:
