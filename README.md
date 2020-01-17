@@ -2,7 +2,7 @@
 
 ## edb-sorteio
 
-### v1.1.0
+### v1.2.0
 
 ---
 
@@ -83,4 +83,4 @@ Veja no arquivo CHANGELOG.md
 
 MIT
 
-> (c)2018-2019 Estúdio Digital Bocca
+> (c)2018-2020 Estúdio Digital Bocca

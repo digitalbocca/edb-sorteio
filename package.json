@@ -1,6 +1,6 @@
 {
   "name": "edb-sorteio",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.",
   "main": "src/",
   "config": {
@@ -37,7 +37,7 @@
   "homepage": "https://github.com/digitalbocca/edb-sorteio#readme",
   "devDependencies": {
     "cross-var-no-babel": "^1.2.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.1",
     "jsdoc": "^3.6.3",
     "standard": "^14.3.1"
   }
