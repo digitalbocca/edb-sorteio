@@ -1,13 +1,13 @@
 {
   "name": "edb-sorteio",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Realiza o sorteio de um número inteiro, limitado ao valor passado por parâmetro.",
   "main": "src/",
   "config": {
     "commitMessage": "Atualização de dependências"
   },
   "scripts": {
-    "standard": "standard",
+    "standard": "standard ./src",
     "http": "http-server ./docs -o",
     "doc": "jsdoc ./src -d docs",
     "git": "npm run gst && npm run gad && npm run gco && npm run gta && npm run gpo && npm run gpb && npm run gpg",
@@ -37,8 +37,8 @@
   "homepage": "https://github.com/digitalbocca/edb-sorteio#readme",
   "devDependencies": {
     "cross-var-no-babel": "^1.2.0",
-    "http-server": "^0.12.1",
-    "jsdoc": "^3.6.3",
-    "standard": "^14.3.1"
+    "http-server": "^0.12.3",
+    "jsdoc": "^3.6.4",
+    "standard": "^14.3.4"
   }
 }
