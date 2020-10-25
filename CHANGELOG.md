@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
-  <p align="center">Ultima Atualização na v1.3.0</p>
+  <p align="center">Ultima Atualização na v1.4.0</p>
   <h1 align="center">edb-sorteio</h1>
   <h4 align="center">
     Realiza o sorteio de um número inteiro limitado ao valor passado por parâmetro.
   </h4>
   <p align="center">
-    <img src="https://badgen.net/badge/version/v1.3.0/orange">
+    <img src="https://badgen.net/badge/version/v1.4.0/orange">
     <a href="https://codeclimate.com/github/digitalbocca/edb-sorteio/maintainability">
       <img src="https://api.codeclimate.com/v1/badges/bfe807ff929ff634540c/maintainability">
     </a>
@@ -59,6 +59,10 @@
 ---
 
 ## REGISTRO DE ALTERAÇÕES
+
+### Mudanças na v1.4.0
+
+- Atualização de dependências.
 
 ### Mudanças na v1.3.0
 
