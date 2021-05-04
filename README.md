@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
-  <p align="center">Ultima Atualização na v1.4.0</p>
+  <p align="center">Ultima Atualização na v1.5.0</p>
   <h1 align="center">edb-sorteio</h1>
   <h4 align="center">
     Realiza o sorteio de um número inteiro limitado ao valor passado por parâmetro.
   </h4>
   <p align="center">
-    <img src="https://badgen.net/badge/version/v1.4.0/orange">
+    <img src="https://badgen.net/badge/version/v1.5.0/orange">
     <a href="https://codeclimate.com/github/digitalbocca/edb-sorteio/maintainability">
       <img src="https://api.codeclimate.com/v1/badges/bfe807ff929ff634540c/maintainability">
     </a>
@@ -49,7 +49,7 @@
       <img src="https://cdn.rawgit.com/standard/standard/master/badge.svg">
     </a>
   </p>
-  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+  <p align="center">(c)2020-2021 Estúdio Digital Bocca</p>
 </p>
 
 ---
@@ -117,4 +117,4 @@ Veja no arquivo [CHANGELOG](CHANGELOG.md)
 
 MIT
 
-> (c)2018-2020 Estúdio Digital Bocca
+> (c)2018-2021 Estúdio Digital Bocca
